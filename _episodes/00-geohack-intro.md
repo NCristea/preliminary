@@ -1,6 +1,6 @@
 ---
 
-title: "Intro and Preparation for Geohackweek"
+title: "Intro and Preparation for Waterhackweek"
 teaching: 15
 exercises: 0
 questions:
@@ -8,7 +8,7 @@ questions:
 - "What version of Python should I install?"
 - "What tools do I need to participate?"
 objectives:
-- Getting patricipants ready for running code in the cloud and on their local machines during the geohackweek
+- Getting patricipants ready for running code in the cloud and on their local machines during the waterhackweek
 keypoints:
 - participants will conduct tutorial exercises in a cloud environment
 - everyone is encouraged to arrive with Python installed on their laptop for the project work
@@ -17,13 +17,13 @@ keypoints:
 
 ---
 
-This preliminary tutorial is one that we would like you to complete before arriving at Geohackweek. The purpose is to learn about the minimum system requirement for the Geohackweek, install the necessary software used during the week, and hopefully answer any other technical question about your computer setup. Our goal is to have everyone up-and-running prior to the event so we can focus our time more productively when you arrive in person.
+This preliminary tutorial is one that we would like you to complete before arriving at Waterhackweek. The purpose is to learn about the minimum system requirement for the Waterhackweek, install the necessary software used during the week, and hopefully answer any other technical question about your computer setup. Our goal is to have everyone up-and-running prior to the event so we can focus our time more productively when you arrive in person.
 
 ### Overview
 
 Python software is distributed as a series of *libraries* that are called within your code to perform certain tasks. There are many different collections, or *distributions* of Python software. Generally you install a specific distribution of Python and then add additional libraries as you need them. There are also several different *versions* of Python. The two main versions right now are 2.7 and 3.6. Some libraries only work with specific versions of Python.
 
-So even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Geohackweek.
+So even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Waterhackweek.
 
 This year, we will be using a [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/) JupyterHub is a multi-user Hub that provides multiple instances of the single-user Jupyter notebook server. A Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts. Here's a [overview](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) on JupyterHub.
 
@@ -41,23 +41,23 @@ Here are the system requirements:
 - 32-bit or 64-bit
 - Minimum 3 GB disk space to download and install.
 
-Click [here](https://geohackweek.github.io/preliminary/01-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
+Click [here](https://waterhackweek.github.io/preliminary/01-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
 
 ### Getting setup with Git
 
-Be sure to arrive at Geohackweek with your own [GitHub](https://github.com/) account.
+Be sure to arrive at Waterhackweek with your own [GitHub](https://github.com/) account.
 
 ### Getting setup with JupyterHub 
 
-For those who have their Github accounts posted on the [Geohackweek Github Wiki](https://github.com/geohackweek/ghw2018/wiki/Participants), you can try accessing the Jupyterhub server we will be using throughout the program by clicking [here](https://jupyterhub.geohackweek.org). You will be logging into Jupyterhub using your Github credentials. Starting the server will take anywhere from a few seconds to five minutes. Please be patient when the server is loading. 
+For those who have their Github accounts posted on the [Waterhackweek Github Wiki](https://github.com/waterhackweek/, you can try accessing the Jupyterhub server we will be using throughout the program by clicking [here](https://jupyterhub.waterhackweek.org). You will be logging into Jupyterhub using your Github credentials. Starting the server will take anywhere from a few seconds to five minutes. Please be patient when the server is loading. 
 
 ### Creating an account for Google Earth Engine
 In order to use Google Earth Engine, you need to sign up for the platform. 
-Click [here](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) and follow the directions to sign up and gain access to our shared code folder.
+Click [here](https://waterhackweek.github.io/GoogleEarthEngine/00-access-javascript/) and follow the directions to sign up and gain access to our shared code folder.
 
 ### Brushing up on Python
 
-Given all the geospatial content we hope to cover during geohack week, we will not be able to provide instruction in Python fundamentals. Here are some excellent resources we recommend using to brush up on your Python skills in advance of our event:
+Given all the content we hope to cover during Waterhackweek, we will not be able to provide instruction in Python fundamentals. Here are some excellent resources we recommend using to brush up on your Python skills in advance of our event:
 
 * [Software carpentry lessons](https://software-carpentry.org/lessons/), especially the [Python tutorial](http://swcarpentry.github.io/python-novice-inflammation/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
